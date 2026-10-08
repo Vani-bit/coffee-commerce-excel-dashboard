@@ -4,7 +4,7 @@ An interactive Microsoft Excel dashboard built to analyze coffee sales performan
 
 The project transforms raw transactional data into a decision-focused dashboard with dynamic KPIs, PivotCharts, slicers, and a timeline—allowing users to explore business performance without manually filtering or analyzing the underlying dataset.
 
-![Coffee Commerce Dashboard](dashboard-preview.png)
+![Coffee Commerce Dashboard](./dashboard_preview.png)
 
 ---
 
